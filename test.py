@@ -1,4 +1,4 @@
-# Importa a função de cálculo e os dados de vendas do arquivo 'codigo.py'
+# Importa a função de cálculo e os dados de vendas do arquivo 'code.py'
 from codigo import calcular_total_vendas, vendas_mensais
 
 # Importa a biblioteca 'sys', que permite encerrar o programa com códigos de erro
