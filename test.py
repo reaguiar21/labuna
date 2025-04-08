@@ -1,5 +1,5 @@
 # Importa a função de cálculo e os dados de vendas do arquivo 'code.py'
-from codigo import calcular_total_vendas, vendas_mensais
+from code import calcular_total_vendas, vendas_mensais
 
 # Importa a biblioteca 'sys', que permite encerrar o programa com códigos de erro
 # Isso é importante para o GitHub Actions identificar falhas
